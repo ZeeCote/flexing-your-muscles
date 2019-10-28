@@ -28,7 +28,7 @@ img {
   color: #005576;
 }
 
-footer h2 {
+.footer h2 {
   margin-top: 0;
   margin-bottom: 1.5rem;
 }
@@ -50,7 +50,7 @@ footer h2 {
 
 .social {
   margin-left: auto;
-  padding: 0 1rem;;
+  padding: 0 1rem;
   display: flex;
 }
 
